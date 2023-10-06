@@ -1,2 +1,2 @@
 #!/bin/bash
-iamafile text.zip /tmp
+text.zip /tmp/iamafile
