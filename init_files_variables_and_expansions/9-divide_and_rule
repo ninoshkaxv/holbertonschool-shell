@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -z "$POWER" ] || [ -z "$DIVIDE" ]
+echo "Result of POWER / DIVIDE: $((POWER / DIVIDE))"
