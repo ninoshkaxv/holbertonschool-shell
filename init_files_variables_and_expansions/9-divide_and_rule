@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$POWER/$DIVIDE"
+if [ -z "$POWER" ] || [ -z "$DIVIDE" ]
